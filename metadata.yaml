@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25639
     wikipedia: http://es.wikipedia.org/wiki/Carlos_Mar%C3%ADa_Ocantos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23035#Quilito
 gutenberg_issued: '2007-10-14'
 gutenberg_type: Text
 identifiers:
